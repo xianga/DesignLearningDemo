@@ -1,2 +1,2 @@
-# DesignLearningDemo
-设计模式学习DEMO
+# LearningDemo
+学习DEMO
